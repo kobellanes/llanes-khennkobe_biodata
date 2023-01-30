@@ -1,0 +1,57 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    position: relative;
+    margin-top: 70px;
+    left: 40%;
+}
+
+h2{
+    position: relative;
+    background-color: black;
+    width: 80%;
+    color: white;
+    margin-top: 50px;
+    font-size: 15px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+}
+
+table{
+    margin-top: 5px;
+    width: 80%;
+    margin:auto;
+    /* margin-left: 10%;
+    margin-right: 10%; */
+    border: 1px solid black;
+}
+
+.left{
+  position: relative;
+  left: 2%;
+  width: 10%;
+}
+
+.input1{
+    margin-right: 40%;
+    border-bottom: 1px solid black;
+    width: 20%;
+}
+
+.right{
+    position: relative;
+    left: 2%;
+    width: 5%;
+}
+
+.input2{
+    border-bottom: 1px solid black;
+    width: 20%;
+}
+
+
+
