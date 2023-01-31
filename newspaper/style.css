@@ -1,0 +1,100 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    margin: auto;
+    width: 80%;
+    background-color: #f9f7f1;
+    position: relative;
+    text-align: center;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-weight: 1500;
+    font-size: 80px;
+    text-transform: uppercase;
+    display: inline-block;
+    line-height: 72px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+
+h2{
+    color: gray;
+    margin: 0px;
+    font-weight: 900;
+    font-size: 12px;
+    margin-bottom: 5px;
+}
+
+.titlebar{
+    width: 100%;
+    background-color: #0076b8;
+}
+
+.titlebar .title1{
+    width: 80%;
+}
+
+.titlebar .title1 h3{
+    font-weight: 550;
+    font-size: 45px;
+    color: white;
+    position: relative;
+    left: 10%;
+}
+
+.titlebar .title1 h4{
+    margin-bottom: 3px;
+    font-weight: 200;
+    font-size: 30px;
+    color: yellow;
+    position: relative;
+    left: 11%;
+}
+
+.titlebar .title2 .sub1{
+    font-weight: 400;
+    color: yellow;
+    position: relative;
+}
+
+.titlebar .title2 .sub2{
+    font-weight: 400;
+    color: white;
+    position: relative;
+}
+
+h5 {
+    font-weight: 400;
+    font-size: 50px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+h6{
+    font-weight: 500;
+    font-size: 15px;
+    display: inline-block;
+    margin-top: 0px;
+    margin-bottom: 5px;
+}
+
+.border{
+    font-size: 11px;
+    text-align: left;
+    border-top: 1px solid #2f2f2f;
+    padding: 12px 0 12px 0;
+    margin-right: 10px;
+}
+
+.align{
+    margin-right: 10px;
+    font-size: 11px;
+    margin-top: 5px;
+    text-align: left;
+}
