@@ -10,6 +10,8 @@
 }
 
 .new {
+    position: relative;
+    left: 4%;
     margin: auto;
     padding-top: .5%;
     background-color: white;
@@ -177,4 +179,20 @@ h4 {
 .table3_input3 {
     border-bottom: 1px solid black;
     width: 25%;
+}
+
+h5 {
+    position: relative;
+    border: 3px solid black;
+    background-color: black;
+    width: 77.8%;
+    color: white;
+    margin-top: 5px;
+    font-size: 15px;
+    margin-top: 5px;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 5px;
+    padding-left: 15px;
+    font-weight: 600;
 }
