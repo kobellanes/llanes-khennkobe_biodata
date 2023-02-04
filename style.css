@@ -6,7 +6,7 @@
 .paper {
     background-color: white;
     width: 90%;
-    height: 1300px;
+    height: 1200px;
 }
 
 .new {
@@ -16,7 +16,7 @@
     padding-top: .5%;
     background-color: white;
     width: 950px;
-    height: 1120px;
+    height: 1130px;
 }
 
 h1 {
@@ -195,4 +195,39 @@ h5 {
     margin-bottom: 5px;
     padding-left: 15px;
     font-weight: 600;
+}
+
+.tablelastr {
+    float: right;
+    margin: 0;
+    margin-top: 25px;
+    margin-right: 11%;
+    width: 450px;
+    border: 0px;
+    text-align: justify;
+}
+
+.sign {
+    text-align: center;
+    font-size: 14px;
+}
+
+.tablelastl {
+    margin-top: 5px;
+    float: left;
+    margin-right: 0px;
+    width: 31%;
+    border: 1px solid black;
+    text-align: justify;
+    margin-left: 10%;
+}
+
+.las {
+    position: relative;
+    width: 24.7%;
+}
+
+.las_ {
+    border-bottom: 1px solid black;
+    width: 25%;
 }
