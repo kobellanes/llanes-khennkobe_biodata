@@ -22,9 +22,9 @@ body {
     margin: auto;
     padding-top: .5%;
     background-color: #d2e6e2;
+    box-shadow: 10px 0px 10px 5px gray;
     width: 700px;
     height: 1120px;
-    box-shadow: 10px 10px 10px 5px gray;
 }
 
 h1 {
