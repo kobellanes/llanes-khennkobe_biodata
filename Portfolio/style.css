@@ -21,7 +21,7 @@ body {
 }
 
 .first {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(1.jpg);
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(photos/1.jpg);
     width: 100%;
     height: 1000px;
     background-size: cover;
@@ -165,4 +165,44 @@ h5 {
     font-weight: 800;
     font-family: sans-serif;
     padding-top: 33px;
+}
+
+.photos {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img {
+    width: 350px;
+    height: 360px;
+    margin-right: 20px;
+}
+
+td {
+    padding-top: 18px;
+}
+
+.button1 {
+    padding-top: 70px;
+    padding-bottom: 35px;
+}
+
+.see {
+    color: white;
+    border-radius: 10px;
+    font-size: 35px;
+    font-weight: 700;
+    border: none;
+    margin: 4px 6px;
+    padding: 20px 65px;
+    background-color: #45893A;
+}
+
+.see:hover {
+    cursor: pointer;
+    background-color: #20E700;
+    border-radius: 10px;
+    transition: 0.5s ease;
 }
