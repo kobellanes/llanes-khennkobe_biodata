@@ -175,8 +175,8 @@ h5 {
 }
 
 img {
-    width: 350px;
-    height: 360px;
+    width: 380px;
+    height: 380px;
     margin-right: 20px;
 }
 
@@ -205,4 +205,106 @@ td {
     background-color: #20E700;
     border-radius: 10px;
     transition: 0.5s ease;
+}
+
+.fourth {
+    width: 100%;
+    height: 100%;
+    background-color: #3E3C3C;
+    justify-content: center;
+    text-align: center;
+}
+
+h6 {
+    width: 100%;
+    color: white;
+    font-size: 95px;
+    font-family: sans-serif;
+    font-weight: 800;
+    padding-top: 150px;
+    font-size: 100px;
+    position: relative;
+    right: 20%;
+    padding-bottom: 22px;
+}
+
+.contact1 {
+    display: flex;
+    text-align: left;
+    color: white;
+}
+
+.contact1_email {
+    width: 34%;
+    padding-left: 150px;
+    padding-right: 60px;
+}
+
+.contact1_email p {
+    font-size: 33px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    padding-top: 35px;
+}
+
+.emailphoto {
+    width: 27px;
+    height: 24px;
+    margin-right: 20px;
+}
+
+.contact1_name {
+    background-color: #312D2D;
+    width: 42%;
+    height: 100px;
+    justify-content: center;
+}
+
+.contact1_name p {
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 1000;
+}
+
+.contact2 {
+    padding-top: 30px;
+    display: flex;
+    text-align: left;
+    color: white;
+}
+
+.contact2_num {
+    width: 34%;
+    padding-left: 150px;
+    padding-right: 60px;
+}
+
+.contact2_num p {
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 1000;
+    padding-top: 35px;
+}
+
+.contact2_email {
+    background-color: #312D2D;
+    width: 42%;
+    height: 100px;
+    justify-content: center;
+}
+
+.contact2_email p {
+    padding-top: 40px;
+    padding-left: 40px;
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: 1000;
+}
+
+.phonephoto {
+    width: 27px;
+    height: 24px;
+    margin-right: 21px;
 }
