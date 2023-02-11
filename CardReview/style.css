@@ -133,7 +133,7 @@ h1 {
 }
 
 .second_left {
-    width: 30%;
+    width: 32%;
     background-color: hsl(300, 43%, 22%);
     height: 13em;
     align-items: center;
@@ -152,14 +152,14 @@ h1 {
 }
 
 .pic1 {
-    width: 3.5em;
+    width: 3em;
     height: 3em;
     border-radius: 50%;
 }
 
 .second_left_credentials {
     margin-top: 2em;
-    margin-left: 1em;
+    margin-left: .5em;
     font-family: 'League Spartan', sans-serif;
 }
 
@@ -185,4 +185,54 @@ h4 {
     font-weight: 500;
     font-family: 'League Spartan', sans-serif;
     line-height: 1.5;
+}
+
+.second_middle {
+    width: 32%;
+    background-color: hsl(300, 43%, 22%);
+    height: 13em;
+    align-items: left;
+    border-radius: 0.5em;
+    margin: 0px;
+}
+
+.second_middle_profile {
+    display: flex;
+}
+
+.second_middle_pic {
+    width: 17%;
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+}
+
+.pic2 {
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
+}
+
+.second_right {
+    width: 32%;
+    background-color: hsl(300, 43%, 22%);
+    height: 13em;
+    align-items: left;
+    border-radius: 0.5em;
+    margin: 0px;
+}
+
+.second_right_profile {
+    display: flex;
+}
+
+.second_right_pic {
+    width: 17%;
+    margin-top: 1.5em;
+    margin-left: 1.5em;
+}
+
+.pic3 {
+    width: 3em;
+    height: 3em;
+    border-radius: 50%;
 }
