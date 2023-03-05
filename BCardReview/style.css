@@ -1,3 +1,23 @@
+* {
+    font-family: 'League Spartan', sans-serif;
+}
+
+.pink {
+    color: hsl(300, 43%, 22%);
+}
+
+.gray {
+    background-color: hsl(300, 24%, 96%);
+}
+
+.another {
+    background-color: hsl(300, 43%, 22%);
+}
+
+.last {
+    color: hsl(333, 80%, 67%);
+}
+
 .rounded-circle {
     width: 70px;
 }
